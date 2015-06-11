@@ -8,6 +8,7 @@ public class Print {
         System.out.println("in method 1");   
         System.out.println("push master only");   
         System.out.println("pull from remote");
+        System.out.println("merge branch to master vice versa");        
 
         
 	}
